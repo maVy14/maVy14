@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maVy14
 - 👀 I’m interested in Technology.
-- 🌱 I’m currently learning web devoloping.
+- 🌱 I’m currently learning web developing.
 -I need a girl friend to celebrate with me 😛
 
 <!---
